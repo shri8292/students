@@ -1,0 +1,14 @@
+.studentForm{
+    align-items: center;
+}
+#dataHeading{
+    text-align: center;
+    background-color: rgb(221, 210, 210);
+    padding: 2px;
+    border-radius: 5px;
+}
+#pfHeading{
+    background-color: pink;
+    text-align: center;
+    border-radius: 5px;
+}

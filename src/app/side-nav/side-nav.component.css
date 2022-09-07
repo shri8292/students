@@ -1,0 +1,21 @@
+.leftSideBar{
+    max-height:890px;
+    background: rgb(233, 229, 229);
+}
+.leftSideBar a{
+  font-size: 25px;
+}
+li a{
+    text-decoration: none;
+    color: rgb(99, 93, 93);
+
+}
+ul{
+    list-style-type: none;
+}
+li a:hover{
+    color: rgb(162, 88, 219);
+}
+a{
+    border: 1px;
+}
